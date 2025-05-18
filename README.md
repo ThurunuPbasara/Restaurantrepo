@@ -49,9 +49,3 @@ Restaurant Management System is a complete web-based solution developed to autom
 
 ![DB IMG 2](https://github.com/user-attachments/assets/011992db-0324-464e-a569-27ad2f3ac554)
 
-## 🤝 Contribution
-
-Pull requests are welcome! Feel free to **fork** and improve the project. ✨
-
-## 📜 License
-This project is **MIT Licensed**
